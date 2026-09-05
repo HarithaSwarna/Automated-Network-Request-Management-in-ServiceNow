@@ -71,14 +71,6 @@ Automated notifications can be triggered for:
 - Resolution-time tracking
 - SLA breach notifications
 
-### 🤖 Smart Automation
-Potential AI-based enhancements include:
-
-- Priority prediction
-- Duplicate request detection
-- Assignment recommendations
-- Suggested resolutions
-
 ### 📈 Reporting & Dashboard
 - Request volume monitoring
 - Request status reports
